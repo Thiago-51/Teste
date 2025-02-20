@@ -56,3 +56,5 @@ function tabuada(z){
     alert(tabela);
 }
 tabuada(tab);
+
+alert("hello, world!");
