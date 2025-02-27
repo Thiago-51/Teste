@@ -58,3 +58,5 @@ function tabuada(z){
 tabuada(tab);
 
 alert("hello, world!");
+
+let numeroLimite = 1000
