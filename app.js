@@ -59,4 +59,4 @@ tabuada(tab);
 
 alert("hello, world!");
 
-let numeroLimite = 1000
+let numeroLimite = 100
